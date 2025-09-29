@@ -5,6 +5,8 @@ description: 'Notes from the review session covering the following topics: adsor
 file: /courses/10-32-separation-processes-spring-2005/8b012e75f08c89d784d0db24e427f6b8_10_32_exm2rvw_as.pdf
 file_size: 39582
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

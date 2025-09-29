@@ -28,6 +28,7 @@
     "website": "10-32-separation-processes-spring-2005"
   },
   "course_title": "Separation Processes",
+  "hide_download": true,
   "course_description": "This course covers the general principles of separation by equilibrium and rate processes. Topics include staged cascades and applications to distillation, absorption, adsorption, and membrane processes. Phase equilibria and the role of diffusion are also covered.\n",
   "department_numbers": [
     "10"
@@ -38,6 +39,7 @@
     "content": "a0ffb0ce-710f-ab44-1ea1-0c3cd42c4b82",
     "website": "10-32-separation-processes-spring-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets",
     "Exams"

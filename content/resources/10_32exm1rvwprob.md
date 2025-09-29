@@ -4,6 +4,8 @@ description: Quiz with two problems in preparation for Exam 1.
 file: /courses/10-32-separation-processes-spring-2005/3d86dca636990ec29acf34c439d7c550_10_32exm1rvwprob.pdf
 file_size: 77286
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

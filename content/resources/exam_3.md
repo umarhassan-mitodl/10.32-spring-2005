@@ -4,6 +4,8 @@ description: Three problems related to chromatography.
 file: /courses/10-32-separation-processes-spring-2005/2f85177b55e52d6cc1f8b10b5cf8581d_exam_3.pdf
 file_size: 179386
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

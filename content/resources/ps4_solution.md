@@ -5,6 +5,8 @@ description: This resource includes the solutions to the problems given in probl
 file: /courses/10-32-separation-processes-spring-2005/adfa268dae62e7829e6bbdc30d011d4f_ps4_solution.pdf
 file_size: 347867
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
